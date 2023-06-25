@@ -20,6 +20,7 @@ def main():
     print(f"Regular hours: {reg_hours} Regular Charge: {regular_wage}")
     print(f"Overtime hours: {overtime_hours} Overtime Charge: {overtime_wage:.2f}")
     print(f"Total wage : {total_wage:.2f}")
+    
 
    ##################################################
    # Do not delete the return statement
